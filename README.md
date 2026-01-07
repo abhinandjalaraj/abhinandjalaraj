@@ -51,22 +51,7 @@ I work comfortably across frontend, backend, and system design layers.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinand&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinand&theme=radical" />
-</p>
-
----
 
 ## 🧭 Development Philosophy
 
