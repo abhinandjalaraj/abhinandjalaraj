@@ -1,66 +1,81 @@
-<!-- Header -->
-<h1 align="center">
-  Hi 👋, I'm Abhinand
-</h1>
+<h1 align="center">Hi, I’m Abhinand</h1>
 
-<h3 align="center">
-  MERN Stack Developer | Kerala, India
-</h3>
-
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/abhinand">
-    <img src="https://readme-typing-svg.herokuapp.com?
-      font=Fira+Code
-      &size=20
-      &pause=1000
-      &center=true
-      &vCenter=true
-      &width=550
-      &lines=MERN+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications" />
-  </a>
+  Full-Stack Developer · MERN · India
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code
+    &size=18
+    &pause=1200
+    &center=true
+    &vCenter=true
+    &width=520
+    &lines=Full-Stack+Web+Developer;Backend+Focused+Engineer;Building+Scalable+Applications" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- Full-stack MERN developer with strong backend focus  
-- Interested in clean architecture & scalable systems  
-- Enjoys building production-ready applications  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,java,nextjs,html,css,docker,git" />
-</p>
+Full-stack developer with hands-on experience in building scalable web applications using the MERN stack.  
+Strong focus on backend architecture, clean API design, and maintainable codebases.  
+Comfortable working across the full lifecycle of a product — from database design to frontend integration.
 
 ---
 
-## 🎯 Focus Areas
+## 🧰 Technical Skills
+
+### Core Stack
+- MongoDB
+- Express.js
+- React
+- Node.js
+
+### Programming Languages
+- Java
+- TypeScript
+- JavaScript
+
+### Frontend
+- React
+- Next.js
+- HTML5, CSS3
+
+### Backend
+- Node.js
+- Express
+- RESTful APIs
+- Authentication & Authorization
+
+### Databases
+- MongoDB (schema design, indexing)
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- Stripe (payments)
+- Self-hosted services
+- Home Assistant (automation)
+
+---
+
+## 🎯 Areas of Expertise
 
 - Backend architecture & system design  
-- Type-safe APIs & validation  
-- Authentication & role-based systems  
-- Subscription & payment logic  
+- Type-safe API development & validation  
+- Subscription, pricing & payment workflows  
+- Role-based access control (RBAC)  
+- Scalable and maintainable application logic  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinand&show_icons=true&theme=transparent" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinand&theme=transparent" />
-</p>
-
----
-
-## 🔥 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand&layout=compact&theme=transparent" />
@@ -68,4 +83,13 @@
 
 ---
 
-⭐ Always learning. Always building.
+## 📌 Development Principles
+
+- Clean and readable code  
+- Strong validation and error handling  
+- Clear separation of concerns  
+- Real-world, production-ready solutions  
+
+---
+
+⭐ Continuously learning and improving.
