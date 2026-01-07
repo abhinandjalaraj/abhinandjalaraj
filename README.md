@@ -1,95 +1,82 @@
-<h1 align="center">Hi, I’m Abhinand</h1>
+<!-- Gradient Header -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#00DBDE,#FC00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hi, I'm Abhinand
+  </span>
+</h1>
 
 <p align="center">
-  Full-Stack Developer · MERN · India
+  <strong>Full-Stack Developer · MERN · India</strong>
 </p>
 
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
     font=Fira+Code
-    &size=18
-    &pause=1200
+    &size=20
+    &pause=1000
+    &color=00DBDE
     &center=true
     &vCenter=true
-    &width=520
-    &lines=Full-Stack+Web+Developer;Backend+Focused+Engineer;Building+Scalable+Applications" />
+    &width=600
+    &lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;Backend+Focused+Problem+Solver" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## ✨ About Me
 
-Full-stack developer with hands-on experience in building scalable web applications using the MERN stack.  
-Strong focus on backend architecture, clean API design, and maintainable codebases.  
-Comfortable working across the full lifecycle of a product — from database design to frontend integration.
+I’m a full-stack developer specializing in the MERN stack, with a strong backend focus.  
+I enjoy building scalable systems, clean APIs, and production-ready applications with real-world logic.
 
----
-
-## 🧰 Technical Skills
-
-### Core Stack
-- MongoDB
-- Express.js
-- React
-- Node.js
-
-### Programming Languages
-- Java
-- TypeScript
-- JavaScript
-
-### Frontend
-- React
-- Next.js
-- HTML5, CSS3
-
-### Backend
-- Node.js
-- Express
-- RESTful APIs
-- Authentication & Authorization
-
-### Databases
-- MongoDB (schema design, indexing)
-
-### Tools & Platforms
-- Git & GitHub
-- Docker
-- Stripe (payments)
-- Self-hosted services
-- Home Assistant (automation)
+I work comfortably across frontend, backend, and system design layers.
 
 ---
 
-## 🎯 Areas of Expertise
-
-- Backend architecture & system design  
-- Type-safe API development & validation  
-- Subscription, pricing & payment workflows  
-- Role-based access control (RBAC)  
-- Scalable and maintainable application logic  
-
----
-
-## 📊 GitHub Activity
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinand&show_icons=true&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,java,nextjs,html,css,docker,git&theme=light" />
 </p>
+
+---
+
+## 🚀 What I Focus On
+
+- 🧩 Backend architecture & system design  
+- 🔐 Authentication, authorization & RBAC  
+- 💳 Subscription & payment workflows  
+- 🧪 Type-safe APIs & data validation  
+- ⚡ Performance & scalability  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand&layout=compact&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinand&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📌 Development Principles
+## 🔥 GitHub Streak
 
-- Clean and readable code  
-- Strong validation and error handling  
-- Clear separation of concerns  
-- Real-world, production-ready solutions  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinand&theme=radical" />
+</p>
 
 ---
 
-⭐ Continuously learning and improving.
+## 🧭 Development Philosophy
+
+- Write clean, maintainable code  
+- Prefer clarity over complexity  
+- Design for scale and extensibility  
+- Build solutions, not demos  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
